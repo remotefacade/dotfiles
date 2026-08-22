@@ -1,0 +1,1 @@
+alias nrbs="npm run build && npm run serve"
