@@ -12,7 +12,7 @@ dir=~/dotfiles
 olddir=~/dotfiles_old
 
 # list of files/folders to symlink in homedir
-files="bashrc profile alias"
+files="bashrc profile alias env"
 
 # neovim kickstart directory
 kickstartdir=~/.config/nvim

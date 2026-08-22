@@ -11,3 +11,4 @@
 # ridden in every subshell.
 
 test -s ~/.alias && . ~/.alias || true
+test -s ~/.env && . ~/.env || true
