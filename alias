@@ -1,1 +1,3 @@
 alias nrbs="npm run build && npm run serve"
+alias listext="find . -type f -name '*.*' | sed 's|.*\.||' | sort -u"
+
